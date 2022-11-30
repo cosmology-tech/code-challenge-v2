@@ -2,7 +2,7 @@
 
 ## Target
 
-Make a UI Component as follows
+Make an UI Component as follows
 
 ![deposit](./deposit.png)
 
